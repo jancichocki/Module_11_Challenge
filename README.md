@@ -1,5 +1,12 @@
 # MercadoLibre Search Trends and Stock Analysis
 
+## MercadoLibre Analysis
+
+Explore the comprehensive analysis of **MercadoLibre's Search Trends and Stock Performance**. Click below to dive into the insights:
+
+[![Explore MercadoLibre Trends](https://img.shields.io/badge/Explore-MercadoLibre_Analysis-blue?style=for-the-badge&logo=googlecolab)](https://colab.research.google.com/drive/1vNH9aDLTu56S3Wb9al3AgQkC4Hg_aURF?usp=sharing)
+
+
 ## Project Overview
 
 This project aims to analyze MercadoLibre's Google search trends, correlate these trends with the company's stock price movements, and forecast future user search traffic and revenue using time series models. By leveraging data visualization and predictive modeling, this project provides insights into the temporal patterns of user interest and their potential impact on financial performance.
